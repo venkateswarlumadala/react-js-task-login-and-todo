@@ -1,0 +1,6 @@
+.input1 {
+    transform: scale(1.5);
+ }
+ .bshadow{
+    border: 1.5px solid rgba(0,0,0,.125);
+}

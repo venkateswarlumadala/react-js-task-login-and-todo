@@ -1,0 +1,9 @@
+.color{
+    background-color: coral;
+}
+.bg{
+    background-color: #fbf0e5;
+}
+.bshadow{
+    border: 1.5px solid rgba(0,0,0,.125);
+}
